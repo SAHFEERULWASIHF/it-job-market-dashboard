@@ -111,9 +111,10 @@ All key findings, visuals, and methodology are documented in:
 
 
 ## 👤 Author
-- Name: F Sahfeerul Wasihf
-- GitHub: @SAHFEERULWASIHF
-- LinkedIn: www.linkedin.com/in/sahfeerul-wasihf
-- Email: wasihfwork@gmail.com
+
+**Name:** F Sahfeerul Wasihf  
+**GitHub:** [@SAHFEERULWASIHF](https://github.com/SAHFEERULWASIHF)  
+**LinkedIn:** [www.linkedin.com/in/sahfeerul-wasihf](https://www.linkedin.com/in/sahfeerul-wasihf)  
+**Email:** wasihfwork@gmail.com
 
 
