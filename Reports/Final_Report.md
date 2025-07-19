@@ -53,19 +53,48 @@ To explore, analyze, and visualize the IT job market in the US using real-world 
    - Expert Level: ~$190,000+
 
 3. **Top Hiring Location:**
-   - US
+   - US - we can clearly see US is hiring more tech employees
+  
+     
+     ![High Demand Locations](figures/job%20location.png)
 
-4. **Remote Trends:**
-   - Remote roles offer competitive salaries, especially in engineering-heavy jobs.
+4. **Best Jobs For Freshers**
+
+   - Data Analyst, Data Scientist, Data Engineer
+   - Becouse these are the jobs giving good median salary with good amount of openings
+
+     ![Entry level job median salary with job openings](figures/Entry%20level%20job%20median%20salary%20with%20job%20openings.png)
+     
+5. **Best Jobs For Mid Experienced**
+
+   - Data Scientist, Data Engineer, Machine Learning Engineer, Research Scientist, Analytics Engineer
+   - Becouse these are the jobs giving good median salary with good amount of openings
+
+     ![Entry level job median salary with job openings](figures/Mid%20level%20job%20median%20salary%20with%20job%20openings.png)
+     
+6. **Best Jobs For Seniors**
+
+   - Machine Learning Engineer, Data Scientist, Data Engineer, Data Analyst
+   - Becouse these are the jobs giving good median salary with good amount of openings
+
+     ![Entry level job median salary with job openings](figures/Senior%20level%20job%20median%20salary%20with%20job%20openings.png)
+     
+7. **Best Jobs For Experts**
+
+   - Data Engineer
+   - Becouse these are the jobs giving good median salary with good amount of openings
+
+     ![Entry level job median salary with job openings](figures/Expert%20level%20job%20median%20salary%20with%20job%20openings.png)
+
 
 ---
 
 ## 📌 Dashboard Overview
 
 📁 Path: `/Dashboard/it-job-market-dashboard.pbix`  
-🖼️ Preview:
+🖼️ Power BI Dashboard Preview:
 
-![Power BI Dashboard Preview](Dashboard/PowerBI%20Dashboard.png)
+![Power BI Dashboard Preview](../Dashboard/PowerBI%20Dashboard.png)
 
 Includes:
 - Salary by job role and experience level
@@ -112,6 +141,18 @@ Suitable for roles such as:
 
 ---
 
+## ✅ Conclusion
+
+The IT Job Market Intelligence Dashboard offers a strategic view of Global tech job market. From entry-level roles to expert positions, it uncovers:
+
+- High-demand job titles
+
+- Compensation trends by experience
+
+- Location and remote work opportunities
+
+These insights empower fresh graduates, career switchers, and hiring managers with data-driven decision-making capabilities. This project not only boosts technical and analytical skills but also enhances storytelling through visuals—a key differentiator in the data field.
+
 ## ✅ Future Improvements
 
 - Add clustering (e.g, job titles grouped by salary + experience)
@@ -123,6 +164,6 @@ Suitable for roles such as:
 ## 👤 Author
 
 **Name:** F Sahfeerul Wasihf  
-**GitHub:** [https://github.com/SAHFEERULWASIHF](https://github.com/SAHFEERULWASIHF)  
-**LinkedIn:** www.linkedin.com/in/sahfeerul-wasihf(www.linkedin.com/in/sahfeerul-wasihf)  
+**GitHub:** [@SAHFEERULWASIHF](https://github.com/SAHFEERULWASIHF)  
+**LinkedIn:** [www.linkedin.com/in/sahfeerul-wasihf](https://www.linkedin.com/in/sahfeerul-wasihf)  
 **Email:** wasihfwork@gmail.com
