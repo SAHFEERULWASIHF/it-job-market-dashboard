@@ -57,7 +57,7 @@ Analyze and visualize salary trends, role distribution, and hiring patterns in t
 ├── dashboard/
 │ ├── it-job-market-dashboard.pbix
 │ └── PowerBI Dashboard.png
-├── reports/
+├── Reports/
 │ ├── Final_Report.md
 │ └── figures/ # PNG charts for visual storytelling
 ├── requirements.txt
@@ -106,7 +106,7 @@ jupyter notebook
 ## 📚 Final Report
 
 All key findings, visuals, and methodology are documented in:  
-📄 [`reports/Final_Report.md`](reports/Final_Report.md)
+📄 [`Reports/Final_Report.md`](Reports/Final_Report.md)
 
 
 ## 👤 Author
