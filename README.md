@@ -35,7 +35,8 @@ Analyze and visualize salary trends, role distribution, and hiring patterns in t
 ## 📊 Dashboard Overview
 
 📂 Path: `/dashboard/it-job-market-dashboard.pbix`  
-🖼️ Screenshot: `PowerBI Dashboard.png`
+🖼️ Screenshot: `PowerBI Dashboard`
+![Power BI Dashboard Preview](Dashboard/PowerBI%20Dashboard.png)
 
 ### Dashboard Insights:
 - 💰 Median salary by experience level and role
