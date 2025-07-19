@@ -1,12 +1,12 @@
-# 💼 IT Job Market Intelligence Dashboard – United States
+# 💼 IT Job Market Intelligence Dashboard
 
-Analyze and visualize salary trends, role distribution, and hiring patterns in the United States IT job market using real-world data. This project focuses on roles across experience levels—Entry, Mid, Senior, and Expert—and aims to uncover actionable insights for job seekers and HR professionals.
+Analyze and visualize salary trends, role distribution, and hiring patterns in the Global IT job market using real-world data. This project focuses on roles across experience levels—Entry, Mid, Senior, and Expert—and aims to uncover actionable insights for job seekers and HR professionals.
 
 ---
 
 ## 📌 Objective
 
-- Understand salary distribution across US IT roles
+- Understand salary distribution across Global IT roles
 - Identify top-paying roles and high-demand locations
 - Support freshers and career switchers with career decisions
 - Demonstrate data analytics, visualization, and storytelling skills
@@ -17,7 +17,7 @@ Analyze and visualize salary trends, role distribution, and hiring patterns in t
 
 | Source | Description |
 |--------|-------------|
-| [Kaggle – Global Tech Salary Dataset](https://www.kaggle.com/datasets/yaaryiitturan/global-tech-salary-dataset) | Real-world tech salary dataset focused on US and global job markets. Contains job titles, experience levels, work years, locations, salaries, and remote work status. |
+| [Kaggle – Global Tech Salary Dataset](https://www.kaggle.com/datasets/yaaryiitturan/global-tech-salary-dataset) | Real-world tech salary dataset focused on global job markets. Contains job titles, experience levels, work years, locations, salaries, and remote work status. |
 
 📁 Located in `/data/raw/`
 
