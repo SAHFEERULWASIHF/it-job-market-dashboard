@@ -1,13 +1,13 @@
-# 🧠 IT Job Market Intelligence Dashboard – United States
+# 🧠 IT Job Market Intelligence Dashboard
 
 ## 📌 Project Title
-**IT Job Market Intelligence Dashboard for Entry-Level to Senior Roles in the United States**
+**IT Job Market Intelligence Dashboard for Entry-Level to Senior Roles**
 
 ---
 
 ## 🎯 Objective
 
-To explore, analyze, and visualize the IT job market in the US using real-world salary data. The goal is to understand hiring patterns, salary trends, and the distribution of job roles across experience levels to help job seekers and decision-makers gain strategic insights.
+To explore, analyze, and visualize the IT job market using real-world salary data. The goal is to understand hiring patterns, salary trends, and the distribution of job roles across experience levels to help job seekers and decision-makers gain strategic insights.
 
 ---
 
@@ -61,28 +61,24 @@ To explore, analyze, and visualize the IT job market in the US using real-world 
 4. **Best Jobs For Freshers**
 
    - Data Analyst, Data Scientist, Data Engineer
-   - Becouse these are the jobs giving good median salary with good amount of openings
 
      ![Entry level job median salary with job openings](figures/Entry%20level%20job%20median%20salary%20with%20job%20openings.png)
      
 5. **Best Jobs For Mid Experienced**
 
    - Data Scientist, Data Engineer, Machine Learning Engineer, Research Scientist, Analytics Engineer
-   - Becouse these are the jobs giving good median salary with good amount of openings
 
      ![Entry level job median salary with job openings](figures/Mid%20level%20job%20median%20salary%20with%20job%20openings.png)
      
 6. **Best Jobs For Seniors**
 
    - Machine Learning Engineer, Data Scientist, Data Engineer, Data Analyst
-   - Becouse these are the jobs giving good median salary with good amount of openings
 
      ![Entry level job median salary with job openings](figures/Senior%20level%20job%20median%20salary%20with%20job%20openings.png)
      
 7. **Best Jobs For Experts**
 
    - Data Engineer
-   - Becouse these are the jobs giving good median salary with good amount of openings
 
      ![Entry level job median salary with job openings](figures/Expert%20level%20job%20median%20salary%20with%20job%20openings.png)
 
@@ -103,28 +99,6 @@ Includes:
 - Visual comparisons of job count vs. salary
 
 ---
-
-## 📁 Repository Structure
-
-```
-it-job-market-dashboard/
-├── data/
-│ ├── raw/ # Original downloaded CSVs
-│ └── processed/ # Cleaned datasets for dashboard
-├── notebooks/
-│ ├── 1.Combining data.ipynb
-│ └── 2.dashboard_preparation.ipynb
-├── dashboard/
-│ ├── it-job-market-dashboard.pbix
-│ └── PowerBI Dashboard.png
-├── reports/
-│ ├── Final_Report.md
-│ └── figures/ # Insight charts (e.g., job trends, salary maps)
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
-```
 
 ## 💼 Career Relevance
 
