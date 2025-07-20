@@ -46,6 +46,17 @@ Analyze and visualize salary trends, role distribution, and hiring patterns in t
 
 ---
 
+### 🔦 Highlight: Best Entry-Level Tech Jobs
+
+📊 Fresher Job Title vs Median Salary (only roles with 30+ job openings):
+
+![Entry level job median salary with job openings](Reports/figures/Entry%20level%20job%20median%20salary%20with%20job%20openings.png)
+
+**Roles like Data Analyst and Data Engineer dominate entry-level opportunities with high median salaries.**
+
+
+---
+
 ## 📁 Project Structure
 
 ```it-job-market-dashboard/
