@@ -54,7 +54,7 @@ Analyze and visualize salary trends, role distribution, and hiring patterns in t
 
 ![Entry level job median salary with job openings](Reports/figures/Entry%20level%20job%20median%20salary%20with%20job%20openings.png)
 
-**Roles like Data Analyst and Data Engineer dominate entry-level opportunities with high median salaries.**
+**Roles like Data Analyst, Data Scientist and Data Engineer dominate entry-level opportunities with high median salaries.**
 
 
 ---
@@ -68,6 +68,7 @@ Analyze and visualize salary trends, role distribution, and hiring patterns in t
 ├── notebooks/
 │ ├── 1.Combining data.ipynb
 │ └── 2.dashboard_preparation.ipynb
+│ └── 3.Experience_vise_analysis.ipynb
 ├── dashboard/
 │ ├── it-job-market-dashboard.pbix
 │ └── PowerBI Dashboard.png
