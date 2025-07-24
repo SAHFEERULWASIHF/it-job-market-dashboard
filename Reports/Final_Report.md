@@ -42,15 +42,15 @@ To explore, analyze, and visualize the IT job market using real-world salary dat
 ## 📊 Key Insights
 
 1. **Highest Paying Roles (Median):**
-   - AWS Data Architect
-   - Data Operations Engineer
-   - Machine Learning Software Engineer
+   - Research Team Lead
+   - Analytics Engineering Manager
+   - Data Science Tech Lead
 
 2. **Salary Breakdown by Experience:**
-   - Entry Level: ~$85,000
-   - Mid Level: ~$118,000
-   - Senior Level: ~$161,000+
-   - Expert Level: ~$190,000+
+   - Entry Level: ~$97,000
+   - Mid Level: ~$136,000
+   - Senior Level: ~$167,000+
+   - Expert Level: ~$200,000+
 
 3. **Top Hiring Location:**
    - US - we can clearly see US is hiring more tech employees
@@ -66,19 +66,19 @@ To explore, analyze, and visualize the IT job market using real-world salary dat
      
 5. **Best Jobs For Mid Experienced**
 
-   - Data Scientist, Data Engineer, Machine Learning Engineer, Research Scientist, Analytics Engineer
+   - Software Engineer, Data Scientist, Data Engineer, Machine Learning Engineer, Research Scientist, Analytics Engineer
 
      ![Entry level job median salary with job openings](figures/Mid%20level%20job%20median%20salary%20with%20job%20openings.png)
      
 6. **Best Jobs For Seniors**
 
-   - Machine Learning Engineer, Data Scientist, Data Engineer, Data Analyst
+   - Machine Learning Engineer, Data Scientist, Data Engineer, Data Analyst, Software Engineer
 
      ![Entry level job median salary with job openings](figures/Senior%20level%20job%20median%20salary%20with%20job%20openings.png)
      
 7. **Best Jobs For Experts**
 
-   - Data Engineer
+   - Data Engineer, Head of Data
 
      ![Entry level job median salary with job openings](figures/Expert%20level%20job%20median%20salary%20with%20job%20openings.png)
 
